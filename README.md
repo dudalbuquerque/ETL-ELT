@@ -19,7 +19,7 @@ Este projeto utiliza arquivos de dados grandes que excedem o limite do GitHub. P
     
 2.  **Clone o repositório (se ainda não o fez):**
     ```bash
-    git clone [https://github.com/dudalbuquerque/Projeto-de-integra-o-de-dados.git](https://github.com/dudalbuquerque/Projeto-de-integra-o-de-dados.git)
+    git clone [https://github.com/dudalbuquerque/Projeto-de-integra-o-de-dados.git)
     ```
    
 3.  **Entre no diretório do projeto:**
