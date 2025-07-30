@@ -8,3 +8,7 @@ Em uma primeira análise percebemos que seria necessário o tratamentos dos dado
 
 # Tratamentos que realizamos:
 -   Em primeira análise percebemos que seria necessário renomear as colunas de forma a torná-las mais legíveis
+- Dividimos a coluna "amparo_legal" em artigos e incisos
+- Tiramos valores indesejados da coluna "artgio" ex "SENTIDO OLINDA"
+- Padronizamos os tipos de dados
+- Tratamos de valores nulos nas colunas
