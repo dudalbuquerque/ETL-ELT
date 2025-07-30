@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Estudo[[:space:]]de[[:space:]]casos[[:space:]]ETL/datasets/infracoes_2023.csv filter=lfs diff=lfs merge=lfs -text
