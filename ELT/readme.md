@@ -36,7 +36,7 @@ Uma consulta final é executada para exibir uma amostra dos dados após todas as
 ## Como Executar
 
 1. Certifique-se de ter os arquivos CSV (`infracoes_2023.csv`, `infracoes_2024.csv`, `infracoes_2025.csv`) disponíveis no ambiente de execução do notebook.
-2. Configure as credenciais do seu banco de dados PostgreSQL no gerenciador de segredos do Colab, utilizando a chave `db_password`.
+2. Configure as credenciais do Supabase no gerenciador de segredos do Colab, utilizando a chave `db_password`.
 3. Execute as células do notebook sequencialmente.
 
-Este pipeline ETL fornece uma base sólida para a análise dos dados de infrações de trânsito, permitindo insights sobre padrões, tendências e outras informações relevantes.
+Este pipeline ELT fornece uma base sólida para a análise dos dados de infrações de trânsito, permitindo insights sobre padrões, tendências e outras informações relevantes.
