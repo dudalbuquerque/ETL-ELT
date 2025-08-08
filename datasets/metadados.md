@@ -10,7 +10,7 @@
 | cod_infracao      | INT64(10)   | NOT NULL             | Código que indentifica qual infração foi cometida |
 | descricao_infracao| VARCHAR(200)| NOT NULL             | Descrição sobre a infração                   |
 | local_cometimento | VARCHAR(20) | NOT NULL             | Local onde ocorreu a infração                |
-| artigo            | INT64(10)   | NOT NULL             | O número do artigo do CTB que foi infringido |
+| artigo            | VARCHAR(10)   | NOT NULL             | O número do artigo do CTB que foi infringido |
 | subdivisao_artigo | VARCHAR(20) | NOT NULL             | Inciso ou parágrafo dentro de um artigo do Código de Trânsito Brasileiro |
 
 
