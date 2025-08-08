@@ -1,5 +1,6 @@
-# Projeto-de-integra-o-de-dados
-
+# Projeto de Integração de dados
+ Esse projeto é produto da disciplina Banco de dados ministrada pela professora Valeria Cesario e consiste na tranformação de dados usando a abordagem ETL e ELT em csvs de diferentes anos com o objetivo de construir uma bae de dados padronizada.
+ O nosso projeot foi focado  nos registros de Infrações de Trânsito na cidade do Recife durante os anos de 2023, 2024 e 2025.Para lidar com arquivos grandes é preciso adotar as medidas abaixo
 ## Gerenciamento de Dados Grandes (Git LFS)
 
 Este projeto utiliza arquivos de dados grandes que excedem o limite do GitHub. Para lidar com isso, estamos utilizando o **Git Large File Storage (Git LFS)**.
