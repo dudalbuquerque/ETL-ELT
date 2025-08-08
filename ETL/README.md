@@ -4,10 +4,11 @@ Este notebook Python demonstra um pipeline ETL (Extract, Transform, Load) para p
 
 Estrutura do Notebook
 O notebook está organizado nas seguintes seções:
-``` |- datasets
-    |    |--- concat.ipynb   
-    |- ETL
-    |    |--- processos.ipynb
+```
+    └──  datasets
+    |    └── concat.ipynb   
+    └──  ETL
+        └──  processos.ipynb
  ```
 
 ## 1. Instalação das bibliotecas necessárias
