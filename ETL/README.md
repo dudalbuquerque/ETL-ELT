@@ -10,6 +10,7 @@ O notebook está organizado nas seguintes seções:
   - processos.ipynb
 
 ## 1. Instalação das bibliotecas necessárias
+
 Esta seção instala as bibliotecas Python essenciais para o projeto, incluindo sqlalchemy, psycopg2-binary e pandas.Além disso também é necessário baixar a extensão do jupyter notebooks no vscode
 
   ```pip  install  pandas psycopg2-binary sqlalchemy```
@@ -34,4 +35,6 @@ Em uma primeira análise percebemos que seria necessário o tratamentos dos dado
 - Tratamos de valores nulos nas colunas 'artigo', 'subdivisao_artigo', 'agente_equipamento' --> "Não informado"
 - Padronizamos os tipos de dados das colunas
 
+## Visualização
 
+Para visualização da base de dados tratada execute as células entituladas " Carregamento para o PostgreSQL" e substitua com suas credenciais
