@@ -12,7 +12,7 @@ O notebook está organizado nas seguintes seções:
 1. Instalação das bibliotecas necessárias
 Esta seção instala as bibliotecas Python essenciais para o projeto, incluindo sqlalchemy, psycopg2-binary e pandas.
 
-  (````pip  install  pandas psycopg2-binary sqlalchemy```)
+  ```pip  install  pandas psycopg2-binary sqlalchemy```
 
 2. Para rodar
 
