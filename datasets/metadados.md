@@ -1,5 +1,5 @@
 ## Metadados
-> são dados sobre os dados
+
 
 | Coluna            | Tipo        | Restrições           | Descrição                        |
 |-------------------|------------ |----------------------|----------------------------------|
