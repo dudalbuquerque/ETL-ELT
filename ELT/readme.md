@@ -1,6 +1,6 @@
 # Projeto ELT de Dados de Infrações de Trânsito
 
-Este notebook Python demonstra um pipeline ETL (Extract, Transform, Load) para processar dados de infrações de trânsito. O projeto envolve a leitura de arquivos CSV, a carga dos dados em um banco de dados PostgreSQL e a transformação dos dados para análise.
+Este notebook Python demonstra um pipeline ELT (Extract, Load, Transform) para processar dados de infrações de trânsito. O projeto envolve a leitura de arquivos CSV, a carga dos dados em um banco de dados PostgreSQL e a transformação dos dados para análise.
 
 ## Estrutura do Notebook
 
